@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Responsive Food App UI Design
 
-Onboarding Screen![food1](https://user-images.githubusercontent.com/90028171/180184431-e0086921-5941-4e81-812d-1b96944a060f.png) 
-![food2](https://user-images.githubusercontent.com/90028171/180184483-052704bb-8c87-4bef-b865-20532517b38a.png)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/90028171/180184431-e0086921-5941-4e81-812d-1b96944a060f.png)" width="200" height="250" />
 
 
